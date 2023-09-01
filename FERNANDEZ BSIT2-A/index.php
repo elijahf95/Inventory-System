@@ -56,7 +56,7 @@
                 <label for="out" class="form-label">Out</label>
                 <input type="number" name="out" id="out" class="form-control" required>
             </div>
-            <button type="submit" class="btn btn-primary btn-block">Confirm</button>
+            <button type="submit" class="btn btn-primary btn-block">CONFIRM</button>
         </form>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
